@@ -1,0 +1,48 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{background:radial-gradient(#fff,#ffd6d6);
+	position: relative; 
+}
+.navbar-nav{
+	display:inline-block;
+}
+.nav-item{
+	display:inline-block;
+	margin-right:20px;
+}
+a{
+	color:black;
+}
+#div1{
+	margin-top: 200px;
+}
+h1{
+	color:black; 
+	text-align:center;
+	font-size:80px;
+	font-family:copperplate,serif;
+}
+h5{
+	text-align:center;
+}
+#div2{
+	margin-top: 2px;
+}
+
+  #f{
+		background-color:white;
+		border-radius: 5px;
+		padding: 20px;
+	}
+  #d{
+		border-top: 3px solid #bbb;
+	}
+	input[type="file"]{
+		display:none;
+	}
+	.l{
+		border:inset;
+	}
