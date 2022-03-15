@@ -3,4 +3,5 @@ resource "aws_vpc" "DHP_VPC" {
     tags{
         Name="VPC_DHP"
     }
+}
   
